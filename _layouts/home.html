@@ -1,22 +1,32 @@
 ---
 layout: archive
+toc: true
 ---
 
-{{ content }}
+<h2>Nipun Thilakshan</h2>
+<hr class="solid">
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<p><span style="color:blue"><em>I am currently looking for a career opportunity in
+  challenging software industry to use the learned knowledge of
+  technology and problem solving while learning new skills.</em></span></p>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+<p style="text-align:justify">
+  Innovative software engineer with over 5 years of excellence in the IT industry, specializing in full stack
+  development. My skills include quick learning, problem-solving and programming. As a self-motivated
+  team player, I excel in guiding projects from requirement gathering to product delivery, with meticulous
+  time planning. I have a strong passion for leveraging the latest technologies to provide innovative solutions. 
+  <br /> 
+  <a href="./../assets/pdf/resume.pdf">Resume</a> &nbsp; | &nbsp;
+  <a href="./../assets/pdf/adhitha_dias_cv.pdf">CV</a> &nbsp; | &nbsp;
+  <a href="https://adhithadias.github.io/about">MORE ABOUT MYSELF!</a>
+  <br />
+</p>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
+<hr class="solid">
+<h2>News!</h2>
+<hr class="solid">
 
-{% include paginator.html %}
+<ul>
+  <li>December 2018: Graduated from the Faculty of Engineering, University of Moratuwa, Sri Lanka 
+    with a second class upper in BSc.(Hons.) in Electronics and Telecommunication Engineering.</li>
+</ul>

@@ -251,7 +251,7 @@ whitelist:
 feed:
   sources:
     - name: Medium
-      url: https://medium.com/feed/@ngnthilakshan    
+      url: https://medium.com/feed/@ngnthilakshan
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

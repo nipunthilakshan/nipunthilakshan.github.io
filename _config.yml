@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Nipun Thilakshan"
-  avatar           : "/assets/images/avatar.jpeg"
-  bio              : "ATL Sysco LABS | M.Sc.CSE | B.Sc.Eng(Hons)"                    
+  avatar           : "/assets/images/avatar.PNG"
+  bio              : "ATL Sysco LABS/M.Sc.CSE/B.Sc.Eng(Hons)"                    
   location         : "Colombo, Sri Lanka"
   email            :
   links:

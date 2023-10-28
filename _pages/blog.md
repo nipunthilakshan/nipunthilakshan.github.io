@@ -1,7 +1,6 @@
 ---
 permalink: /blogs/
 title: "Blogs"
-layout: default
 excerpt: "Blogs by Nipun Thilakshan."
 last_modified_at: 2023-10-28T15:46:43-04:00
 toc: true

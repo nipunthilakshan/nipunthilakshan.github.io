@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Nipun Thilakshan"
   avatar           : "/assets/images/avatar.PNG"
-  bio              : "ATL Sysco LABS/M.Sc.CSE/B.Sc.Eng(Hons)"                    
+  bio              : "Associate Technical Lead at Sysco LABS\nM.Sc. CSE\nB.Sc. Eng(Hons)"                    
   location         : "Colombo, Sri Lanka"
-  email            :
+  email            : "ngnthilakshan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -238,6 +238,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-feed
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -247,7 +248,10 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-
+feed:
+  sources:
+    - name: Medium
+      url: https://medium.com/feed/@ngnthilakshan    
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

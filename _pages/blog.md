@@ -9,6 +9,15 @@ list-style-type: square
 font-size: 12px
 ---
 
-<h2>Data Integration Principles</h2>
-<p>date: 2023-09-15</p>
-<a href=https://medium.com/sysco-labs/data-integration-principles-b13160872507 target="_blank" rel="noopener noreferrer">Read on Medium</a>
+<section id="recent-medium-articles">
+  <h2>Recent Medium Articles</h2>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+        <p>{{ post.date | date: "%B %d, %Y" }}</p>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

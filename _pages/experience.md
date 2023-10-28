@@ -11,7 +11,7 @@ font-size: 12px
 
 ---
 
-### Associate Technical Lead | Sysco LABS Technologies (Pvt) Ltd ((Branch of Sysco Corporation, Houston, TX)) | Colombo, Sri Lanka
+### Associate Technical Lead | Sysco LABS Technologies (Pvt) Ltd (Branch of Sysco Corporation, Houston, TX) | Colombo, Sri Lanka
 (Nov 2022 – Present)
 
 - Developed an effective e-commerce system for world’s largest food marketing and distribution network, Sysco

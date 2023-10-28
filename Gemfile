@@ -1,2 +1,6 @@
 source "https://rubygems.org"
-gemspec
+
+gem 'faraday', '~> 0'
+gem 'github-pages', group: :jekyll_plugins
+gem "jekyll"
+gem "minimal-mistakes-jekyll"

@@ -9,5 +9,11 @@ list-style-type: square
 font-size: 12px
 ---
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngnthilakshan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngnthilakshan/0" alt="Recent Article 0"> 
+<!-- **Result**
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngnthilakshan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngnthilakshan/0" alt="Recent Article 0">  -->
+
+**Recent Articles**
+<section id="medium-articles">
+  <!-- Articles will be dynamically added here -->
+</section>
 

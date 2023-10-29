@@ -9,15 +9,5 @@ list-style-type: square
 font-size: 12px
 ---
 
-<section id="recent-medium-articles">
-  <h2>Recent Medium Articles</h2>
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
-        <p>{{ post.date | date: "%B %d, %Y" }}</p>
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ngnthilakshan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ngnthilakshan/0" alt="Recent Article 0"> 
+

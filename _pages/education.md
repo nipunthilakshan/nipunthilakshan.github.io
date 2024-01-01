@@ -10,10 +10,10 @@ font-size: 12px
 ---
 
 ## M.Sc in Computer Science Specializing in Software Architecture | University of Moratuwa | Colombo, Sri Lanka
-(Jan 2021 – Dec 2023)
+(Jan 2021 – July 2023)
 
-- CGPA: 3.91/4.20.
-- Graduation expected in Dec 2023
+- GPA: 3.95/4.20.
+- First Class
 
 ## B.Sc Engineering(Hons) in Electronic and Telecommunication Engineering | University of Moratuwa | Colombo, Sri Lanka
 (Nov 2014 – Dec 2018)

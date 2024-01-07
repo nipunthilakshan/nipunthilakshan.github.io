@@ -15,7 +15,7 @@ reducing the maintaining cost of the legacy system by more than 20% and boosting
 50%.
 - Engineered the evolution of Sysco Shop, a high-traffic e-commerce platform, by implementing micro
 front-ends, EDA (Kafka), and GraphQL to enhance user experiences
-- **Technologies and tools** - <em style="color:green"> 
+- **Technologies and tools** -
     - Java, Node.js, JavaScript, HTML/CSS
     - SpringBoot, ReactJS, Express
     - MySQL, PostgreSQL, Redis
@@ -24,19 +24,19 @@ front-ends, EDA (Kafka), and GraphQL to enhance user experiences
     - Datadog, JIRA, Confluence, Kafka, Okta, Contentstack,
 Apollo Client, VS Code, IntelliJ IDEA, Figma
     - Microservices, REST, SOAP, Micro Frontends, GraphQL, Event-Driven Architecture
-    - Power BI, Redash, Tealium </em>
+    - Power BI, Redash, Tealium
 
 ### Charging Solutions - Digitization project
 (May 2021 - Nov 2022)
 - Project with micro services for improving customer related
 functionality with telecommunication core systems.
 - Roles - Associate Tech Lead/ Senior Software Engineer
-- **Technologies and tools** - <em style="color:green"> 
+- **Technologies and tools** -
     - Spring Boot, Java
     - Kubernetes, Docker
     - Jenkins, Gitlab, Nexus, Sonar, Kafka, WSO2 APIM
     - Cloud Platform - GCP, AWS
-    - Database - MySQL, Oracle </em>
+    - Database - MySQL, Oracle 
 
 ### IAM – Identity Server
 (Jan 2021 – May 2021)
@@ -45,11 +45,11 @@ server 5.12.
 - Debugging and identifying fixes for identify server and developing
 solutions.
 - Role - Software Engineer
-- **Technologies and tools** : <em style="color:green"> 
+- **Technologies and tools** : 
     - Java
     - React.JS
     - Github, Jenkins, Nexus
-    - Database - MySQL </em>
+    - Database - MySQL
 
 ### Single Customer App
 (Feb 2019 – Dec 2020)
@@ -58,27 +58,27 @@ many services.
 - Self onboarding process with user identification and authentication
 for a selfcare mobile app was developed
 - Role - Software Engineer
-- **Technologies and tools** : <em style="color:green"> 
+- **Technologies and tools** :
     - Spring Boot
     - Grafana
     -  Kubernetes, Docker,
     - Firebase, JWT, Huawei OCS 5.6
     - Cloud Platform - GCP, AWS
-    - Database - MySQL </em>
+    - Database - MySQL
 
 ### Digital Telco Enabler
 (Feb 2019 – Dec 2020)
 - A solution which facilitates unified orchestration interface to create digital business solutions on top of telco core/BSS systems.
 - Design basic template models for different use case scenarios using several programming languages to integrate Huawei OCS based solutions in a Micro service platform.
 - Role - Software Engineer
-- **Technologies and tools** : <em style="color:green"> 
+- **Technologies and tools** : 
     - Spring Boot
     - Grafana
     - Kubernetes, Docker
     - Huawei OCS 5.6
     - Kafka
     - Clean architecture design (S.O.L.I.D principles and Inversion of Control)
-    - Database - MySQL</em>
+    - Database - MySQL
 
 ### Digital Telco
 (Feb 2019 - Nov 2019)
@@ -92,24 +92,24 @@ for a selfcare mobile app was developed
     - My plan
     - Share Credit
     - Help Desk
-- **Technologies** : <em style="color:green"> 
+- **Technologies** :
     - Spring boot framework
     - MySQL as database
     - Kubernetes ,Docker and Jenkins for CICD
     - Kibana and Grafana for monitoring
-    - React Native (Front-end) </em>
+    - React Native (Front-end)
 
 ### Huawei OCS 3.3 to 5.6 Migration Project in Dialog Axiata PLC
 (Oct 2019 – Dec 2019)
 - The upgrade of HUAWEI OCS (Online Charging Sysytem) is the main objective of this project and during the process the main tasks that I involved can be mentioned as installing the software and related services, trouble shooting and QA.Performing PAT (Preliminary Acceptance Testing), UAT (User Acceptance Testing) & product testing of Huawei Online Charging Systems.
 - Several Micro-services to convert SOAP apis to REST apis and the mappings of apis were done.
-- **Technologies :** <em style="color:green"> 
+- **Technologies :**
     - Spring boot framework
     - MySQL and Redis for databases, 
     - SOAP and REST apis, 
     - HUAWEI CBS, 
     - Kubernetes ,Docker and Jenkins for CICD, 
-    - Kibana and Grafana for monitoring</em>
+    - Kibana and Grafana for monitoring
 
 
 ### Legged Robot Navigation For Disaster Response - Final Year Project
@@ -134,10 +134,10 @@ for a selfcare mobile app was developed
 - Designed an IBP (Intelligence Preparation of The Battlefield) system for Defense Services Command and Staff College Sri Lanka.
 - Designed an online drawing tool which is capable of handling multi touch events.
 - Designed UI (User Interfaces), algorithms and image processing and generation using PHP for frontend and backend integrations
-- **Technologies :** <em style="color:green"> 
+- **Technologies :** 
     - Raphael js
     - PHP,Symfony
     - Java Script
     - Python
     - MySQL
-    - HTML, CSS </em>
+    - HTML, CSS
